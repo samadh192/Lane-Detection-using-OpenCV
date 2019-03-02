@@ -9,7 +9,7 @@ Program Description
 
 -To create the above givem mask convert colour code to hsv and add appropriate hues for yellow and white.
 
--Now we use canny edge detectio to detect the lines and before that apply gaussian blur to smoothen out the lines so it becomes easy to detect.
+-Now we use canny edge detection to detect the lines and before that apply gaussian blur to smoothen out the lines so it becomes easy to detect.
 
 -Now use HoughLines function to detect lines and draw them.
 
